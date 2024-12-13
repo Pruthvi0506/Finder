@@ -9,7 +9,7 @@
     <nav>
         <ul>
             <li><a href="technician_home.php">Home</a>&nbsp;&nbsp;</li>
-            <li><a href="feedback.php">Feedback</a>&nbsp;&nbsp;</li>
+            <li><a href="view_feedback.php">Feedback</a>&nbsp;&nbsp;</li>
             <li><a href="logout.php">Logout</a>&nbsp;&nbsp;</li>
         </ul>
     </nav>
